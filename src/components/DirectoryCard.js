@@ -1,4 +1,4 @@
-import { gapi, loadClientWithProps } from 'gapi-script'
+import { gapi, loadClientWithProps } from '@reinaldoacdc/gapi-script'
 import React, { useEffect, useState } from 'react'
 
 export const DirectoryCard = (props) => {

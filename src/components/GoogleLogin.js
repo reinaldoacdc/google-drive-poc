@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { gapi, loadAuth2 } from 'gapi-script'
+import { gapi, loadAuth2 } from '@reinaldoacdc/gapi-script'
 import { UserCard } from './UserCard'
 import './GoogleLogin.css'
 import { GoogleDrive } from './GoogleDrive'

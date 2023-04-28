@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { gapi, loadGapiInsideDOM, loadAuth2 } from 'gapi-script'
+import { gapi, loadGapiInsideDOM, loadAuth2 } from '@reinaldoacdc/gapi-script'
 
 import { GoogleLogin } from './components/GoogleLogin'
 import './App.css'
